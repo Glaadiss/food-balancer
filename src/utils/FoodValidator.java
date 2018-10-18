@@ -7,6 +7,7 @@ import static utils.Validator.validateText;
  * Validator for user's input during food creation
  *
  * @author bartlomiejgladys
+ * @version 1.0
  */
 public class FoodValidator {
 

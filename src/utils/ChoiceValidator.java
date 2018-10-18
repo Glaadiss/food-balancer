@@ -6,6 +6,7 @@ import static utils.Validator.validateNumber;
  * Validator for user's action
  *
  * @author bartlomiejgladys
+ * @version 1.0
  */
 public class ChoiceValidator{
 

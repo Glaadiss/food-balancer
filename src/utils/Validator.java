@@ -4,6 +4,7 @@ package utils;
  *  Stateless Validator with static methods
  *
  * @author bartlomiejgladys
+ * @version 1.0
  */
 public class Validator {
     /** 

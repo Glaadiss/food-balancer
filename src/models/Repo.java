@@ -7,6 +7,7 @@ import java.util.function.Consumer;
  * Repo model - communicate between controllers and other models
  *
  * @author bartlomiejgladys
+ * @version 1.0
  */
 public class Repo {
 

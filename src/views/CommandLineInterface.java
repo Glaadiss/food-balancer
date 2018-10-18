@@ -10,6 +10,7 @@ import java.util.Scanner;
  * FoodBalancer's view in command line
  *
  * @author bartlomiejgladys
+ * @version 1.0
  */
 public class CommandLineInterface {
     /**

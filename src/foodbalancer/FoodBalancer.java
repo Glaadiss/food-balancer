@@ -6,6 +6,7 @@ import controllers.Home;
  * FoodBalancer root
  *
  * @author bartlomiejgladys
+ * @version 1.0
  */
 public class FoodBalancer {
 

@@ -4,6 +4,7 @@ package models;
  * Food model
  *
  * @author bartlomiejgladys
+ * @version 1.0
  */
 public class Food {
 

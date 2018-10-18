@@ -10,6 +10,7 @@ import views.CommandLineInterface;
  * Main controller - handle first user's view
  *
  * @author bartlomiejgladys
+ * @version 1.0
  */
 public class Home {
 
